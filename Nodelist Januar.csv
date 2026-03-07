@@ -48,7 +48,6 @@ pair,political alliances and international relations,,,,,11,
 pm,political meetings,,,,,11,
 ic,international comparison,,,,,11,
 un,United Nations,,,,,11,
-,,,,,,12,
 bbb,Big Beautiful Bill,,,,,12,
 o,opposition,,,,,12,
 ack,assassination attempt on Charlie Kirk,,,,,12,
@@ -83,7 +82,7 @@ p1 ,post1 ,31_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/1159
 kn,Kristi Noem,,,1,2,,
 dohs,Department of Homeland Security,,,,,,
 lg,Local Governments,,,,,,
-lp,Local Police,,,,,,
+lopo,Local Police,,,,,,
 pr,Protestors,,,,,,
 rio,Rioters,,,,,,
 ins,Insurrectionists,,,,,,
@@ -95,7 +94,7 @@ dp,Dan Patrick,,,,,,
 d,democrats,,,,1,,
 r,republicans,,,,2,,
 p3,post3,31_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115989916560112535
-ba,Biden Administration,,,,,,
+biadm,Biden Administration,,,,,,
 io,Ilhan Omar,,,1,1,,
 pos,People of Somalia,,,,,,
 gom,government of minnesota,,,,,,
@@ -137,7 +136,7 @@ p12,post13,30_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/1159
 tx,Texas,,,,,,
 p13,post14,30_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115982625271651077
 iceoff,ICE Offficer,,,,,,
-ap,Alex Pretti,,,2,3,,
+alpr,Alex Pretti,,,2,3,,
 p14,post15,30_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115980983698005555
 can,Canada,,,,,,
 gulf,Gulfstream,,,,,,
@@ -259,7 +258,7 @@ ukm,UK Military,,,,,,
 p56,post56,24_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115951048952031044
 chn,China,,,,,,
 p57,post57,24_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115950708684387583
-sc,South Carolina,,,,,,
+soca,South Carolina,,,,,,
 va,Virginia,,,,,,
 p58,post58,24_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115950424403894234
 p59,post59,23_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115947083395862222
@@ -350,7 +349,7 @@ gd,Golden Dome,,,,,,
 p91,post91,23_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115945837215795716
 p92,post92,23_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115945477247439138
 chsc,Chuck Schumer,,,2,1,,
-gp,Gateway Project,,,,,,
+gapr,Gateway Project,,,,,,
 p93,post93,23_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115944376084632033
 envins,Environmental Insurrectionists,,,,,,
 p94,post94,23_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115944336667645170
@@ -477,7 +476,6 @@ nld,Netherlands,,,,,,
 fin,Finland,,,,,,
 p147,post147,18_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115913968629100828
 damc,David McIntosh,,,2,2,,
-robr,Rod Bray,,,2,2,,
 p148,post148,18_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115913818366988479
 jlet,Julia Letlow,,,1,2,,
 p149,post149,17_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115913809230823901
@@ -496,17 +494,15 @@ nyc,New York Courts,,,,,,
 p156,post156,17_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115906000981082082
 p157,post157,16_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115905757161594483
 p158,post158,16_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115905755470362973
-p159,post159,01_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115824439366264186
+p159,post159,01_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115821862193209382
 asw,Alex Swoyer,,,1,,,
 maga,MAGA,,,,,,
-boo,Lawless Lawfare: Tipping the Scales of Justice to Get Trump and Destroy MAGA,,,,,,
 p160,post160,01_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115823137139241980
 adc,Art Del Cueto,,,2,,,
 jb,Joe Biden,,,2,1,,
 p161,post161,01_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115824439366264186
 irn,Iran,,,,,,
 irng,Iranian Government,,,,,,
-pr,peaceful protesters,,,,,,
 p162,post162,02_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115825378093317232
 ce,Cognitive Examination,,,,,,
 p163,post163,02_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115825721310088041
@@ -518,10 +514,8 @@ be,Bald Eagles,,,,,,
 cc,climate change,,,,,,
 p165,post165,02_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115825951172960005
 p166,post166,03_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115830428767897167
-vene,Venezuela,,,,,,
 nm,Nicolás Maduro,,,2,3,,
 wfe,Cilia Flores,,,,,,
-le,le,,,,,,
 p167,post167,03_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115833689929797630
 p168,post168,03_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115833880793462028
 dws,Debbie Wassermann Schultz,,,1,2,,
@@ -530,7 +524,7 @@ p172,post172,05_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/11
 walz,Tim Walz,,,2,1,,
 gn,Gavin Newsom,,,2,1,,
 jbp,J. B. Pritzker,,,2,1,,
-kh,Kathy Hochul,,,1,1,,
+kaho,Kathy Hochul,,,1,1,,
 minn,Minnesota,,,,,,
 p170,post170,05_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115844769291604784
 tm,Thomas Massie,,,2,2,,
@@ -545,7 +539,6 @@ cdc,Centers for Disease Control and Prevention,,,,,,
 fda,Food and Drug Administration,,,,,,
 cms,Centers for Medicare & Medicaid Services,,,,,,
 nih,National Institutes of Health,,,,,,
-amer,Americans,,,,,,
 p174,post174,05_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115844958852489769
 bs,Blue States,,,,,,
 p175,post175,06_01_26,jan26,,,,
@@ -576,7 +569,7 @@ tc,Ted Cruz,,,2,2,,
 p185,post185,06_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115850512257143274
 cwo,Chris Wolfe,,,2,2,,
 p186,post186,06_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115850515035074475
-js,John Shepherd,,,2,2,,
+josh,John Shepherd,,,2,2,,
 usdcar,US District Court Western District of Arkansas,,,,,,
 ar,Arkansas,,,,,,
 p187,post187,06_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115850518579436668
@@ -586,7 +579,7 @@ edla,US District Court Eastern District of Louisiana,,,,,,
 p188,post188,06_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115850817778602689
 cw,Chris Wright,,,2,2,,
 p189,post189,07_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115854238467475779
-jh,John Harbaugh,,,2,,,
+johar,John Harbaugh,,,2,,,
 p190,post190,07_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115854352740910460
 p191,post191,07_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115855025749206304
 dl,Doug LaMalfa,,,2,2,,
@@ -609,11 +602,11 @@ p198,post198,07_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/11
 gp,Gustavo Petro,,,2,3,,
 col,Colombia,,,,,,
 p199,post199,08_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115860738010214901
-sc,Susan Collins,,,1,2,,
+suco,Susan Collins,,,1,2,,
 lm,Lisa Murkowski,,,1,2,,
 rp,Rand Paul,,,2,2,,
 jh,Josh Hawley,,,2,2,,
-ty,Todd Young,,,2,2,,
+toyo,Todd Young,,,2,2,,
 sen,Senate,,,,,,
 p200,post200,08_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115861537483492504
 intel,Intel,,,,,,
@@ -621,16 +614,14 @@ lbt,Lip-Bu Tan,,,,,,
 p201,post201,08_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115861588073149023
 fnma,Fannie Mae,,,,,,
 fre,Freddie Mac,,,,,,
-mil,US Military,,,,,,
 afg,Afghanistan,,,,,,
 p202,post202,08_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115862109893187989
 p203,post203,08_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115862665860473431
 may,Mayor,,,,,,
 p204,post204,09_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115864395969123502
 big,Big Oil,,,,,,
-pr,Political Prisoners,,,,,,
+polpri,Political Prisoners,,,,,,
 p205,post205,09_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115866622554668872
-gp,Gustavo Petro,,,2,3,,
 col,Colombia,,,,,,
 dr,Drugs,,,,,,
 p206,post206,11_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115866624593954329
@@ -658,8 +649,6 @@ fmac,Freddie Mac,,,,,,
 amerf,American Families,,,,,,
 mor,mortage,,,,,,
 p212,post212,10_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115873337954422404
-jm,Jon Maples,,,2,3,,
-mw,Meg Weinberger,,,1,2,,
 fl87,Florida HD-87,,,,,,
 sa,Second Amendment,,,,,,
 elec,Elections,,,,,,
@@ -671,9 +660,8 @@ dpm,Dina Powell McCormick,,,1,2,,
 meta,Meta,,,,,,
 mz,Mark Zuckerberg,,,2,,,
 p216,post216,12_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115883475463948362
-sc,Supreme Court,,,,,,
+supcou,Supreme Court,,,,,,
 p217,post217,12_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115884164936451552
-fbi,FBI Agents,,,,,,
 kp,Kash Patel,,,2,2,,
 bo,Barack Obama,,,2,1,,
 p218,post218,12_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115884319075881590
@@ -690,19 +678,18 @@ util,Utility Bills,,,,,,
 p221,post221,13_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115888070937502023
 p222,post222,13_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115888260399895701
 p223,post223,13_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115888317758045915
-irn,Iran,,,,,,
 p224,post224,13_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115888656099131562
 sca,Scott Adams,,,2,3,,
 p225,post225,13_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115889954671261109
-sb,Scott Bessent,,,2,2,,
+sbe,Scott Bessent,,,2,2,,
 atp,American Taxpayers,,,,,,
 p226,post226,13_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115889956193740965
 p227,post227,14_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115893255826342514
 p228,post228,14_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115893309945152200
-p229,post229,14_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115895806350456434
 sanc,Sanctuary Cities,,,,,,
+p229,post229,14_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115895806350456434
 oil,Oil,,,,,,
-minerals,Minerals,,,,,,
+miner,Minerals,,,,,,
 trade,Trade,,,,,,
 dro,Delcy Rodríguez,1,2,,,,
 p230,post230,15_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115899010178595252
@@ -713,12 +700,10 @@ insur,Insurrectionists,,,,,,
 insact,Insurrection Act,,,,,,
 p232,post232,15_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115901513827848128
 p233,post233,15_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115901692370933354
-p233,bop,15_01_26,jan26,,,,
 p234,post234,15_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115902017280271792
 sw,Steve Witkoff,,,,,,
 gaza,Gaza,,,,,,
 aid,Humanitarian Aid,,,,,,
-un,United Nations,,,,,,
 palgov,Palestinian Technocratic Government,,,,,,
 egy,Egypt,,,,,,
 tur,Turkey,,,,,,
