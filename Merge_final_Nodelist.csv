@@ -66,7 +66,7 @@ ep,energy policy,,,,,15,
 rb,religious beliefs,,,,,16,
 jew,jews,,,,,16,
 npp,nobel peace price,,,,,19,
-fpp,FIFA Peace Prize,,,,,19,
+fpp,FIFA Peace Prize,,,,19,19,
 par,pardon,,,,,4,
 pa,personal attacks,,,,,9,
 nas,national security,,,,,7,
@@ -74,14 +74,14 @@ c,children,,,,,18,
 w,wife,,,,,18,
 usdod,Department of Defence,,,,,7,
 fb,football,,,,,14,
-obp,open border policy,,,,,,
-wf,wild fires,,,,,,
+obp,open border policy,,,,,14,
+wf,wild fires,,,,,15,
 iwr,I was right,,,,,,
 nz,New Zealand,,,,,20,
 sam,Samoa,,,,,20,
-nv,Nevada,,,,,13,
-fl,Florida,,,,,,
-az,Arizona,,,,,13,
+nv,Nevada,,,,,21,
+fl,Florida,,,,,21,
+az,Arizona,,,,,21,
 col,Colombia,,,,,20,
 pan,Panama,,,,,20,
 wafl,Waterflow,,,,,,
@@ -89,79 +89,78 @@ av,aviation,,,,,,
 soma,Somalia,,,,,20,
 mex,Mexico,,,,,20,
 can,Canada,,,,,20,
-chn,China,,,,,,
+chn,China,,,,,20,
 soaf,South Africa,,,,,20,
 boo,books,,,,,10,
 aut,Autism,,,,,2,
 trans,Transgender participation,,,,,,
-wspt,Womenssport,,,,,,
-rf,religions freedom,,,,,,
-budg,Budget,,,,,,
-en,environment,,,,,,
+wspt,Womenssport,,,,,14,
+rf,religions freedom,,,,,16,
+budg,Budget,,,,,3,
+env,environment,,,,,15,
 jpn,Japan,,,,,20,
 art,arts & culture,,,,,,
-iw,Iowa,,,,,,
+iw,Iowa,,,,,12,
 ger,Germany,,,,,20,
 fin,finnland,,,,,20,
-gofa,golf of america,,,,,,
-usdoc,United States Department of Commerce,,,,,,
-ustr,United States Trade Representative,,,,,,
-im,immigration,,,,,,
-wy,Wyoming,,,,,,
-syr,Syria,,,,,,
-ny,New York,,,,,,
-bor,border,,,,,,
+gofa,golf of america,,,,,11,
+usdoc,United States Department of Commerce,,,,,6,
+ustr,United States Trade Representative,,,,,6,
+im,immigration,,,,,12,
+wy,Wyoming,,,,,21,
+syr,Syria,,,,,20,
+ny,New York,,,,,21,
+bor,border,,,,,12,
 ct,congestion toll,,,,,,
-hf,Hedge Funds,,,,,,
-rlm,radical left media,,,,,,
-bit,Bitcoin,,,,,,
+hf,Hedge Funds,,,,,3,
+rlm,radical left media,,,,,10,
+bit,Bitcoin,,,,,3,
 peace,peace,,,,,,
 tech,technology,,,,,,
-fra,France,,,,,,
+fra,France,,,,,20,
 ai,Artificial Intelligence,,,,,,
-baseb,baseball,,,,,,
+baseb,baseball,,,,,14,
 ensr,endorsment,,,,,,
 hom,homless,,,,,,
-dr,drugs,,,,,,
+dr,drugs,,,,,2,
 socs,Social Secruity,,,,,,
-ont,Ontario,,,,,,
+ont,Ontario,,,,,21,
 aus,Australia,,,,,20,
 nuc,Nuclear Weapons,,,,,,
 irl,Ireland,,,,,20,
 j6,January 6th,,,,,,
-env,enviroment,,,,,,
-cont,Connecticut,,,,,,
+cont,Connecticut,,,,,21,
 els,El Salvador,,,,,20,
 uae,United Arab Emirates,,,,,20,
 maga,Make America Great Again,,,,,,
-box,boxing,,,,,,
+box,boxing,,,,,14,
 mai,Maine,,,,,,
 socm,Social Media,,,,,,
 elec,election,,,,,1,
-nj,New Jersey,,,,,,
-crm,crime,,,,,,
+nj,New Jersey,,,,,21,
+crm,crime,,,,,8,
 emerg,Emergency Managment,,,,,,
-wash,Washington,,,,,,
-war,war,,,,,,
+wash,Washington,,,,,21,
+war,war,,,,,13,
 egy,Egypt,,,,,20,
-edu,education,,,,,,
+edu,education,,,,,5,
 yem,Yemen,,,,,20,
 uk,United Kingdom,,,,,20,
 vie,Vietnam,,,,,20,
 skor,South Korea,,,,,20,
 dom,Daylight Saving,,,,,,
-hr,human rights,,,,,,
+hr,human rights,,,,,4,
 usa,United States of America,,,,,20,
 fa,farmers,,,,,,
-fam,family,,,,,,
+fam,family,,,,,18,
 ir,interest rates,,,,,,
-ita,Italy,,,,,,
-afr,Africa,,,,,,
+ita,Italy,,,,,20,
+afr,Africa,,,,,20,
 actb,ActBlue,,,,,,
-pen,Pennsylvania,,,,,,
-vir,Virginia,,,,,,
-colo,Colorado,,,,,,
-con,Constituion,,,,,,
+pen,Pennsylvania,,,,,21,
+vir,Virginia,,,,,21,
+colo,Colorado,,,,,21,
+con,constituion,,,,,4,
 p1,post1,01_01_25,jan25,,,,
 p2,post2,01_01_25,jan25,,,,https://truthsocial.com/@realDonaldTrump/posts/113754467479053315
 p3,post3,01_01_25,jan25,,,,https://truthsocial.com/@realDonaldTrump/posts/113755116467958801
@@ -329,16 +328,16 @@ p164,post164,31_01_25,jan25,,,,https://truthsocial.com/@realDonaldTrump/posts/11
 p165,post165,31_01_25,jan25,,,,https://truthsocial.com/@realDonaldTrump/posts/113920366067218393
 p166,post166,31_01_25,jan25,,,,https://truthsocial.com/@realDonaldTrump/posts/113923125872343340
 p167,post167,31_01_25,jan25,,,,https://truthsocial.com/@realDonaldTrump/posts/113923147334338299
-fnm,Fake News Media,,,,,,
-nopd,New Orleans Police Department,,,,,,
+fnm,Fake News Media,,,,,10,
+nopd,New Orleans Police Department,,,,,4,
 trad,Trump Administration,,,,,12,
-cono,City of New Orleans,,,,,,
-doj,Department of Justice,,,,,,
-fbi,Federal Bureau of Investigation,,,,,,
+cono,City of New Orleans,,,,,21,
+doj,Department of Justice,,,,,4,
+fbi,Federal Bureau of Investigation,,,,,4,
 cia,Central Intelligence Agency,,,,,,
 jb,Joe Biden,,,2,1,,
 jpop,Joe Popolo,,,2,2,,
-usg,United States Goverment,,,,,,
+usg,United States Goverment,,,,,22,
 bljr,Benjamin Leon jr.,,,2,2,,
 ca,Cora Alvi,,,1,3,,
 sb,Scott Bessent,,,2,3,,
@@ -347,21 +346,21 @@ apr,Alexandra Preate,,,1,3,,
 hmc,Hunter McMaster,,,2,2,,
 dk,Daniel Katz,,,2,3,,
 ss,Samantha Schwab,,,1,3,,
-usdot,United States Department of the Treasury,,,,,,
+usdot,United States Department of the Treasury,,,,,3,
 mijo,Mike Johnson,,,2,2,,
 jc,Jimmy Charter,,,2,1,,
-usco,United States Congress,,,,,,
+usco,United States Congress,,,,,22,
 mo,Morgan Ortagus,,,1,2,,
 sw,Steven Witkoff,,,2,2,,
 rp,Roman Pipko,,,2,2,,
 tb,Tammy Bruce,,,1,2,,
 maru,Marco Rubio,,,2,2,,
-usdos,U.S. Department of State,,,,,,
+usdos,U.S. Department of State,,,,,22,
 jume,Juan Merchan,,,2,3,,
 albr,Alvin Bragg,,,2,1,,
-usc,United States Courts,,,,,,
-usst,US. Steel,,,,,,
-twp,The Washington Post,,,,,,
+usc,United States Courts,,,,,4,
+usst,US. Steel,,,,,6,
+twp,The Washington Post,,,,,10,
 dtjr,Donald Trump Jr.,,,2,3,,
 rep,Representatives,,,,,,
 jnj,Joesph Nocella Jr.,,,2,2,,
@@ -369,12 +368,12 @@ edony,Eastern District of New York,,,,,,
 ccol,Christopher Columbus,,,2,3,,
 gn,Gavin Newsom,,,2,1,,
 bho,Beryl Howell,,,2,3,,
-cal,California,,,,,,
+cal,California,,,,,21,
 rmu,Rupert Murdoch,,,2,2,,
-la,Los Angeles,,,,,,
+la,Los Angeles,,,,,21,
 pc,Perkins Coie,,,,,,
 fema,Federal Emergency Management Agency,,,,,,
-usda,USDA,,,,,,
+usda,United States Department of Agriculture,,,,,15,
 rfi,Randy Fine,,,2,2,,
 jn,John Nollte,,,2,3,,
 kaba,Karen Bass,,,1,1,,
@@ -387,7 +386,7 @@ eg,Edmundo González,,,2,3,,
 cvh,Chris Van Hollen,,,2,1,,
 jmcl,John McLaughlin,,,2,3,,
 opm,Office of Personnel Management,,,,,,
-swe,Sweden,,,,,,
+swe,Sweden,,,,,20,
 gev,Gabe Evans,,,2,2,,
 lj,Letitia James,,,1,1,,
 wz,Warren Zeiders,,,2,3,,
@@ -404,16 +403,16 @@ rr,Ronald Reagan,,,2,2,,
 malo,Matthew Lohmeier,,,2,3,,
 trumpm,$TRUMP Meme,,,,,,
 ps,Penny Schwinn,,,1,3,,
-usdoed,United States Department of Education,,,,,,
+usdoed,United States Department of Education,,,,,5,
 wc,Will Cain,,,2,3,,
 faf,Fox and Friends,,,,,,
-nyj,New York Judge,,,,,,
-nyc,New York Courts,,,,,,
+nyj,New York Judge,,,,,4,
+nyc,New York Courts,,,,,4,
 ja,Jose Andres,,,2,3,,
 bh,Brian Hook,,,2,2,,
 kb,Keisha Lance Bottoms,,,1,1,,
-pcsfn,"President’s Council on Sports,Fitness and Nutrition",,,,,,
-niac,National Infrastructure Advisory Council,,,,,,
+pcsfn,"President’s Council on Sports,Fitness and Nutrition",,,,,14,
+niac,National Infrastructure Advisory Council,,,,,6,
 wcs,Wilson Center for Scholars,,,,,,
 ru,Ross William Ulbricht,,,1,3,,
 lm,Libertarian Movement,,,,,,
@@ -425,9 +424,9 @@ lbb,L. Brent Bozell III,,,1,3,,
 usagm,United States Agency for Global Media,,,,,,
 ap,Andrew F. Puzder,,,,,,
 sc,Sean Curran,,,2,3,,
-frs,First Responders,,,,,,
-usss,United States Secret Service,,,,,,
-fn,Fox News,,,,,,
+frs,First Responders,,,,,2,
+usss,United States Secret Service,,,,,4,
+fn,Fox News,,,,,10,
 sh,Sean Hannity,,,2,2,,
 jvd,Jeff Van Drew,,,2,2,,
 capr,United States Capitol Rotunda,,,,,,
@@ -444,7 +443,6 @@ bbill,Buffalo Bills,,,,,,
 mimc,Michael McDonald,,,2,3,,
 jl,Joe Lombardo,,,2,2,,
 nvgop,Nevada GOP,,,,,,
-usmil,United States Military,,,,,,
 jiac,Jim Acosta,,,2,3,,
 cnn,CNN,,,,,,
 gac,Gender Affirming Care,,,,,,
@@ -460,17 +458,17 @@ pama,Patrick Mahomes,,,2,3,,
 brma,Brittany Mahomes,,,1,3,,
 cbs,CBS News,,,,,,
 smin,60 Minutes,,,,,,
-usaid,USAID,,,,,,
-ncaa,NCAA,,,,,,
-oc,Olympics Committee,,,,,,
-usms,United States Marshals Service,,,,,,
+usaid,United States Agency for international Development,,,,,11,
+ncaa,National Collegiate Athletic Association (NCAA),,,,,14,
+oc,Olympics Committee,,,,,14,
+usms,United States Marshals Service,,,,,7,
 tr,Thomas Rose,,,2,2,,
 mk,Michael E. Kavoukjian,,,2,3,,
 mh,Melinda Hildebrand,,,1,3,,
 nm,Nicholas Merrick,,,2,3,,
 kc,Kennedy Center,,,,,,
 bot,Board of Trustees,,,,,,
-rpi,Republican Party of Iowa,,,,,,
+rpi,Republican Party of Iowa,,,,,12,
 dapa,Dan Patrick,,,2,2,,
 bcr,Brandon Creighton,,,,,,
 txh,Texas House,,,,,,
@@ -480,18 +478,18 @@ rigr,Ric Grenell,,,2,2,,
 lz,Lee Zeldin,,,2,2,,
 vz,Vlaimir Zelenski,,,2,3,,
 tc,Terry Cole,,,2,2,,
-dea,Drug Enforcement Administration,,,,,,
+dea,Drug Enforcement Administration,,,,,2,
 m,migrants,,,,,,
 nara,National Archives and Records Administration,,,,,,
 jby,Jim Byron,,,2,3,,
 jrq,Jason Reding Quiñones,,,2,3,,
-sdf,Southern District of Florida,,,,,,
+sdf,Southern District of Florida,,,,,21,
 jojo,John Jovanovic,,,2,2,,
-exim,Export-Import Bank of the United States,,,,,,
-idleg,Idaho Legislators,,,,,,
-wys,Wyoming Senate,,,,,,
+exim,Export-Import Bank of the United States,,,,,3,
+idleg,Idaho Legislators,,,,,22,
+wys,Wyoming Senate,,,,,12,
 bbt,Bo Biteman,,,2,3,,
-doc,District of Columbia,,,,,,
+doc,District of Columbia,,,,,21,
 nr,Ned Ryun,,,2,3,,
 erm,Edward R. Martin Jr.,,,2,2,,
 centcom,U.S. Central Command,,,,,,
@@ -499,19 +497,19 @@ mkur,Michael Kurilla,,,2,3,,
 aq,al-Qaeda,,,,,,
 bt,Bennie Thompson,,,2,1,,
 lg,Lindsey Graham,,,2,2,,
-man,Manhattan,,,,,,
+man,Manhattan,,,,,21,
 damac,DAMAC,,,,,,
-sfb,SoftBank,,,,,,
-nyt,New York Times,,,,,,
+sfb,SoftBank,,,,,3,
+nyt,New York Times,,,,,10,
 rw,Roger Williams,,,2,2,,
-mwol,Michael Wolff,,,,,,
+mwol,Michael Wolff,,,2,3,,
 sha,Sharyl Attkisson,,,1,3,,
 ghwb,George H. W. Bush,,,2,2,,
-jou,Journalist,,,,,,
+jou,Journalist,,,,,10,
 app,Apple,,,,,,
 emm,Emmanuel Macron,,,2,3,,
 limc,Linda McMahon,,,1,2,,
-g7,G7,,,,,,
+g7,G7,,,,,11,
 vr,Vivek Ramaswamy,,,2,2,,
 saa,Samuel Alito,,,2,3,,
 kecr,Kevin Cramer,,,2,2,,
@@ -534,41 +532,41 @@ dnik,Doug Nikolai,,,2,3,,
 dcl,Dan Clark,,,2,3,,
 chki,Charlie Kirk,,,2,2,,
 dp,Dina Powell,,,1,2,,
-usafa,United States Air Force Academy,,,,,,
-swp,South Western Pilots,,,,,,
+usafa,United States Air Force Academy,,,,,7,
+swp,South Western Pilots,,,2,2,,
 stda,Steve Daines,,,2,2,,
 jh,Jon Husted,,,2,2,,
-nrsc,National Republican Senatorial Committee,,,,,,
+nrsc,National Republican Senatorial Committee,,,,,22,
 abg,Andy Biggs,,,1,2,,
 wna,Walt Nauta,,,2,3,,
 ktr,Karrin Taylor Robson,,,1,2,,
 tsh,Tim Sheehy,,,2,2,,
 eeh,Earl Ehrhart,,,2,2,,
-usna,United States Naval Academy,,,,,,
+usna,United States Naval Academy,,,,,7,
 kag,Kilmar Abrego Garcia,,,2,3,,
 dbe,David Bellavia,,,2,3,,
-ua,University of Alabama,,,,,,
+ua,University of Alabama,,,,,5,
 jgo,Jeffrey Goldberg,,,2,1,,
-usma,United States Military Academy,,,,,,
+usma,United States Military Academy,,,,,7,
 dpn,Dana Perino,,,1,2,,
 bbn,Benjamin Netanyahu,,,2,3,,
 dwa,Dan Walrath,,,2,3,,
 mfl,Michael Flynn,,,2,2,,
-ndsu,North Dakota State University,,,,,,
+ndsu,North Dakota State University,,,,,5,
 whu,Wesley Hunt,,,2,2,,
 chp,Charles Payne,,,2,3,,
 mf,Marc Fogel,,,2,3,,
 dn,Daniel Noboa,,,2,3,,
 mba,Maureen Bannon,,,1,3,,
 mmo,Meghan Mobbs,,,1,3,,
-wp,West Point (United States Military Academy),,,,,,
+wp,West Point (United States Military Academy),,,,,7,
 hubi,Hunter Biden,,,2,3,,
 abid,Ashley Biden,,,1,1,,
 atl,The Atlantic,,,,,,
 apk,Ashley Parker,,,1,3,,
 tzn,Tahnoon bin Zayed Al Nahyan,,,2,3,,
 jhe,Jacqui Heinrich,,,1,3,,
-whca,White House Correspondents' Association,,,,,,
+whca,White House Correspondents' Association,,,,,10,
 mwa,Michael Waltz,,,2,2,,
 bsc,Brad Schimel,,,2,2,,
 scr,Susan Crawford,,,1,3,,
@@ -583,7 +581,7 @@ jg,John Giordano,,,2,2,,
 gcl,George Clooney,,,2,3,,
 es,Elise Stefanik,,,1,2,,
 jlo,Jeremy London,,,2,3,,
-ondcp,Office of National Drug Control Policy,,,,,,
+ondcp,Office of National Drug Control Policy,,,,,2,
 sac,Sara Carter,,,1,2,,
 aj,Andrew Jackson,,,2,,,
 npas,National Park Service,,,,,,
@@ -597,11 +595,11 @@ tcr,Ted Cruz,,,2,2,,
 cwt,Cadwalader Wickersham & Taft LLP,,,,,,
 pq,Patrick Quinn,,,2,3,,
 wbm,William “Billy” Marshall III,,,2,2,,
-g20,G20,,,,,,
+g20,G20,,,,,11,
 rmc,Rory McIlroy,,,2,3,,
 nvda,NVIDIA,,,,,,
 rmor,Rachel Morin,,,1,3,,
-harv,Harvard,,,,,,
+harv,Harvard,,,,,5,
 boei,Boeing,,,,,,
 evgr,Evan Greenberg,,,2,3,,
 bfe,Bob Fenton,,,2,3,,
@@ -617,7 +615,7 @@ kel,Kirkland & Ellis LLP,,,,,,
 aoss,Allen Overy Shearman Sterling US LLP,,,,,,
 stb,Simpson Thacher & Bartlett LLP,,,,,,
 lww,Latham & Watkins LLP,,,,,,
-eeoc,Equal Employment Opportunity Commission,,,,,,
+eeoc,Equal Employment Opportunity Commission,,,,,22,
 rmt,Richard M. Trobman,,,2,3,,
 almi,Alden Millard,,,2,3,,
 khga,Khalid Garousha,,,2,3,,
@@ -630,7 +628,7 @@ epf,Elizabeth Price Foley,,,1,3,,
 kch,Katie Cherkasky,,,1,3,,
 ach,Andy Cherkasky,,,2,3,,
 pin,Paul Ingrassia,,,2,2,,
-mda,Manhattan District Attorney,,,,,,
+mda,Manhattan District Attorney,,,,,4,
 jabi,Jon A. Ballis,,,2,3,,
 p168,post168,01_02_25,feb25,,,,https://truthsocial.com/@realDonaldTrump/posts/113925591427889253
 p169,post169,01_02_25,feb25,,,,https://truthsocial.com/@realDonaldTrump/posts/113925656710541132
@@ -811,12 +809,12 @@ dfc,United States International Development Finance Corporation,,,,,,
 elc,Ellie Cohanim,,,1,2,,
 pf,Phil Flynn,,,2,3,,
 isis,ISIS,,,,,,
-pent,Pentagon,,,,,,
+pent,Pentagon,,,,,12,
 joke,Joe Kent,,,2,2,,
 nctc,National Counter Terrorism Center,,,,,,
-hc,Hillsborough County,,,,,,
+hc,Hillsborough County,,,,,21,
 fp,Florida Panthers,,,,,,
-wh,White House,,,,,,
+wh,White House,,,,,12,
 rfkj,Robert F. Kennedy Jr.,,,2,3,,
 tw,Tiger Woods,,,2,3,,
 kw,Kultida Woods,,,1,,,
@@ -824,7 +822,7 @@ dvo,Derrick Van Orden,,,2,2,,
 pb,Pam Bondi,,,1,2,,
 er,Eugene Robinson,,,2,3,,
 jk,Jeff Kaufmann,,,2,2,,
-reu,Reuters,,,,,,
+reu,Reuters,,,,,10,
 brba,Bret Baier,,,2,3,,
 jth,John Thune,,,2,2,,
 rpa,Rand Paul,,,2,2,,
@@ -833,9 +831,9 @@ mm,Meshawn Maddock,,,2,2,,
 jaca,James Carville,,,2,1,,
 latr,Lara Trump,,,1,2,,
 mw,Michael Whatley,,,2,2,,
-usd,United States Department of State,,,,,,
+usd,United States Department of State,,,,,22,
 db,Dan Bongino,,,2,2,,
-nypd,New York Police Department,,,,,,
+nypd,New York Police Department,,,,,4,
 uss,US Secret Service,,,,,,
 pbo,Paula Bongino,,,1,3,,
 brar,Brian Roberts,,,2,3,,
@@ -843,16 +841,16 @@ jr,Joy Reid,,,1,1,,
 aw,Alex Wagner,,,2,3,,
 rm,Rachel Maddow,,,1,1,,
 rgt,Rosie Grace Tuberville,,,,,,
-sen,Senate,,,,,,
+sen,Senate,,,,,22,
 nimo,Nicolás Maduro,,,2,3,,
 pd,Paul Dabbar,,,2,3,,
 huca,Hung Cao,,,,,,
-rnc,Republican National Committee,,,,,,
+rnc,Republican National Committee,,,,,22,
 pr,Pete Rose,,,2,3,,
 mbo,Muriel Bowser,,,,,,
 jro,John Roberts,,,2,3,,
 csh,Claudia Sheinbaum,,,1,3,,
-cdc,Centers for Disease Control and Prevention,,,,,,
+cdc,Centers for Disease Control and Prevention,,,,,2,
 ag,Amer Ghalib,,,1,1,,
 dbu,Duke Buchan,,,1,2,,
 lb,Lynda Blanchard,,,1,2,,
@@ -863,13 +861,13 @@ roja,Ronny Jackson,,,2,2,,
 mmar,Micheál Martin,,,2,2,,
 mwm,Markwayne Mullin,,,2,3,,
 jri,Jim Risch,,,2,2,,
-sfrc,Senate Foreign Relations Committee,,,,,,
+sfrc,Senate Foreign Relations Committee,,,,,22,
 pw,"Paul,Weiss,Rifkind,Wharton & Garrison LLP",,,,,,
 bka,Brad Karp,,,2,3,,
 mpo,Mark Pomerantz,,,2,1,,
 jbo,James Boasberg,,,2,3,,
 mde,Miranda Devine,,,1,3,,
-nyp,New York Post,,,,,,
+nyp,New York Post,,,,,10,
 mha,Maggie Haberman,,,1,3,,
 jmi,Janet Mills,,,1,1,,
 truths,TruthSocial,,,,,,
@@ -881,8 +879,8 @@ chs,Cindy Hyde-Smith,,,1,2,,
 lad,Los Angeles Dodgers,,,,,,
 cl,Cynthia Lummis,,,1,2,,
 jtr,Justin Trudeau,,,2,3,,
-npr,NPR,,,,,,
-pbs,PBS,,,,,,
+npr,National Public Radio (NPR),,,,,10,
+pbs,Public Broadcasting Service (PBS),,,,,10,
 kn,Kristi Noem,,,1,2,,
 ms13,MS13,,,,,,
 sta,Stacey Abrams,,,1,1,,
@@ -894,7 +892,7 @@ krwe,Kristen Welker,,,1,3,,
 kst,Keir Starmer,,,2,3,,
 kro,Kid Rock,,,2,3,,
 bma,Bill Maher,,,2,3,,
-rol,Rule of Law,,,,,,
+rol,Rule of Law,,,,,4,
 dw,Dana White,,,1,3,,
 nbu,Nayib Bukele,,,2,3,,
 mmc,Mitch McConnell,,,2,2,,
@@ -902,18 +900,18 @@ limu,Lisa Murkowski,,,1,2,,
 tla,To Lam,,,2,3,,
 dc,Daniel Caine,,,1,3,,
 mle,Marine Le Pen,,,1,3,,
-csc,Colorado State Capitol,,,,,,
-jud,Judges,,,,,,
+csc,Colorado State Capitol,,,,,22,
+jud,Judges,,,,,4,
 awe,Andrew Weissmann,,,2,3,,
 lmo,Lisa Monaco,,,2,1,,
 frp,French People,,,,,,
 bbz,Bill Bazzi,,,2,2,,
-dht,Dearborn Heights,,,2,,,
+dht,Dearborn Heights,,,,,21,
 mgd,Michael George DeSombre,,,2,3,,
 cqb,Charles CQ Brown,,,2,3,,
 dca,Dan Razin Caine,,,2,2,,
 aes,Abd al-Fattah as-Sisi,,,2,3,,
-jcs,Joint Chiefs of Staff,,,,,,
+jcs,Joint Chiefs of Staff,,,,,7,
 jgr,Janet Gretzky,,,1,2,,
 canp,Canadian People,,,,,,
 p342,post342,01_03_25,mar25,,,,https://truthsocial.com/@realDonaldTrump/posts/114084241095787137
@@ -1304,13 +1302,13 @@ a,AbbVie,,,,,,
 tfs,Therm Fisher Scientific,,,,,,
 al,Abbott Laboratories,,,,,,
 gea,GE Aerospace,,,,,,
-p705,Post 705,01_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114433942825461076
+p705,post705,01_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114433942825461076
 s2mw,Mike Waltz,,,2,2,,
 s2sd,State Department,,,,,,
-p706,Post 706,01_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114433959082847679
-ses,secondary sanctions,,,,,,
+p706,post706,01_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114433959082847679
+ses,secondary sanctions,,,,,11,
 pp,petrochemical products,,,,,,
-p707,Post 707,01_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114435073705713456
+p707,post707,01_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114435073705713456
 s2ca,commencement address,,,,,,
 p708,post708,01_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114435902192931017
 ww2,world war 2,,,,,,
@@ -1319,9 +1317,9 @@ allies,allied countries,,may25,,,,
 nh,national holiday,,,,,,
 p709,post709,01_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114436142904738936
 r,republicans,,,,2,,
-uscong,US Congress,,,,,,
+uscong,US Congress,,,,,22,
 ipt,impeachment,,,,,,
-p710,Post 710,01_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114436165701323476
+p710,post710,01_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114436165701323476
 bs,Betty Schwartz,,,1,2,,
 fm,Fred Marcus,,,2,3,,
 rpl,Rabbi Pinchos Lipschutz,,,2,3,,
@@ -1330,16 +1328,16 @@ aa,Ariel Abergel,,,1,3,,
 bf,Barbara Feingold,,,1,3,,
 s2aw,Alex Witkoff,,,2,3,,
 s2rg,Robert Garson,,,2,3,,
-ushmc,United States Holocaust Memorial Council,,,,,,
-p711,post 711,01_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114436168298983317
+ushmc,United States Holocaust Memorial Council,,,,,22,
+p711,post711,01_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114436168298983317
 whitney,Whitney Hermandorfer,,,1,2,,
-usca6,United States Court of Appeals for the Sixth Circuit,,,,,,
+usca6,United States Court of Appeals for the Sixth Circuit,,,,,4,
 pwb,Princeton University Women's Basketball Team,,,,,,
 sa,Justice Samuel Alito,,,2,3,,
-gws,Girls’ and Women’s Sports,,,,,,
-p712,post 712,02_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114437989795464761
-hv,harvard,,,,,,
-p713,Post 713,02_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114438304481024140
+gws,Girls’ and Women’s Sports,,,,,14,
+p712,post712,02_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114437989795464761
+hv,harvard,,,,,5,
+p713,post713,02_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114438304481024140
 gas,Gasoline,,,,,,
 groceries,Groceries,,,,,,
 eggs,Eggs,,,,,,
@@ -1347,125 +1345,125 @@ mortgage,Mortgage rates,,,,,,
 employment,Employment,,,,,,
 p714,post714,02_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114438330555648164
 p715,post715,03_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114442321106427795
-dep,deportation,,,,,,
+dep,deportation,,,,,17,
 p716,post716,04_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114450707221467337
 p717,post717,04_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114450726968071164
-p718,Post 718,04_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114451970991645838
+p718,post718,04_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114451970991645838
 tgce,The Greatest Comeback Ever: Inside Trump’s Big Beautiful Campaign,,,,,,
 campa,Political Campaign,,,,,12,
-p719,Post 719,04_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114451972448301240
+p719,post719,04_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114451972448301240
 hk,Howie Kurtz,,,2,3,,
 s2bd,Ben Domenech,,,2,3,,
-p720,Post 720,04_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114452025916969327
+p720,post720,04_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114452025916969327
 alc,Alcatraz,,,,,,
 bop,Bureau of Prisons,,,,,,
-p721,Post 721,04_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114452117143235155
+p721,post721,04_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114452117143235155
 film,American Movie Industry,,,,,,
-fc,Foreign Countries,,,,,,
-p722,Post 722,04_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114452877224020351
+fc,Foreign Countries,,,,,20,
+p722,post722,04_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114452877224020351
 s2kr,Karl Rove,,,2,1,,
-p723,Post 723,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114455860282159313
+p723,post723,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114455860282159313
 re,Recep Erdoğan,,,2,3,,
-gaza,Gaza,,,,,,
+gaza,Gaza,,,,,20,
 ab,Andrew Brunson,,,2,3,,
-wru,War Russia/Ukraine,,,,,,
-wdc,Washington D.C.,,,,,,
-p724,Post 724,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114456520145752092
+wru,War Russia/Ukraine,,,,,13,
+wdc,Washington D.C.,,,,,21,
+p724,post724,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114456520145752092
 s2nfl,National Football League,,,,,,
-p725,Post725,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114456568203695294
+p725,post725,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114456568203695294
 camp,Campaign Promises,,,,,1,
-p726,Post 726,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114457666559426766
+p726,post726,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114457666559426766
 all,Allies,,,,,,
 s2hol,National Holiday,,,,,,
-p727,Post 727,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114457992767716636
+p727,post727,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114457992767716636
 philw,Phil Weiser,,,2,1,,
 s2ms13,MS-13,,,,,,
-ill,illegals,,,,,,
-p728,Post 728,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114457993936599790
+ill,illegals,,,,,8,
+p728,post728,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114457993936599790
 s2em,Ed Martin,,,2,1,,
-dojdc,U.S. Attorney District of Columbia,,,,,,
-p729,Post 729,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114458023850536968
+dojdc,U.S. Attorney District of Columbia,,,,,4,
+p729,post729,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114458023850536968
 draft,NFL Draft 2027,,,,,,
 s2nm,National Mall,,,,,,
-p730,Post 730,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114458094742048024
-eo,Executive Order,,,,,,
+p730,post730,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114458094742048024
+eo,Executive Order,,,,,4,
 gof,gain-of-function research,,,,,,
-p731,Post 731,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114458100604424846
-p732,Post 732,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114461575736468146
+p731,post731,05_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114458100604424846
+p732,post732,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114461575736468146
 marcar,Mark Carney,,,2,3,,
-p733,Post 733,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114462513304037389
+p733,post733,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114462513304037389
 s2ag,Andrew Giuliani,,,2,2,,
 carcor,Carlos Cordeiro,,,2,3,,
-fifa,FIFA,,,,,,
+fifa,FIFA,,,,,14,
 usf,United States Soccer Federation,,,,,,
-ptf,President’s Task Force 2026 FIFA World Cup,,,,,,
-p734,Post 734,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114462867354665095
+ptf,President’s Task Force 2026 FIFA World Cup,,,,,14,
+p734,post734,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114462867354665095
 s2jd,Joshua Divine,,,2,3,,
 johaw,Josh Hawley,,,1,2,,
-p735,Post 735,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114462868084205660
+p735,post735,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114462868084205660
 zb,Zachary Bluestone,,,2,3,,
-usao,United States Attorney’s Office,,,,,,
-ge,Georgetown,,,,,,
-ox,Oxford,,,,,,
-usdc,United States District Court,,,,,,
-edom,Eastern District of Missouri,,,,,,
-p736,Post 736,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114462868808829711
+usao,United States Attorney’s Office,,,,,4,
+ge,Georgetown,,,,,21,
+ox,Oxford,,,,,21,
+usdc,United States District Court,,,,,4,
+edom,Eastern District of Missouri,,,,,21,
+p736,post736,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114462868808829711
 s2ml,Maria Lanahan,,,1,3,,
 pds,Principal Deputy Solicitor General,,,,,,
 go,Gonzaga,,,,,,
-uc,University of Chicago,,,,,,
-j,judge,,,,,,
+uc,University of Chicago,,,,,5,
+j,judge,,,,,4,
 pat,patriots,,,,,,
-p737,Post737,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114462869560496665
+p737,post737,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114462869560496665
 cs,Cristian Stevens,,,2,3,,
-mcoa,Missouri Court of Appeals,,,,,,
-mago,Missouri Attorney General’s Office,,,,,,
-p738,Post 738,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114462869802626948
+mcoa,Missouri Court of Appeals,,,,,4,
+mago,Missouri Attorney General’s Office,,,,,4,
+p738,post738,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114462869802626948
 eoc,Edward Aloysius O’Connell,,,2,3,,
-scdc,Superior Court of the District of Columbia,,,,,,
-usadc,Office of the United States Attorney for the District of Columbia,,,,,,
-p739,Post 739,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114463309556144556
-nce,Nassau County Executive,,,,,,
-cvr,civil rights,,,,,,
+scdc,Superior Court of the District of Columbia,,,,,4,
+usadc,Office of the United States Attorney for the District of Columbia,,,,,4,
+p739,post739,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114463309556144556
+nce,Nassau County Executive,,,,,4,
+cvr,civil rights,,,,,4,
 s2m,migration,,,,,,
-p740,Post 740,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114463589898854957
-bhmc,Board of the Holocaust Memorial Council,,,,,,
+p740,post740,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114463589898854957
+bhmc,Board of the Holocaust Memorial Council,,,,,17,
 sf,Siggy Flicker,,,1,3,,
 tf,Tila Falic,,,1,3,,
 jz,Jackie Zeckman,,,1,2,,
 rns,Rabbi Nate Segal,,,2,3,,
 burkan,Jonathan Burkan,,,2,2,,
 s2ll,Lee Lipton,,,2,3,,
-s2fp,foreign policy,,,,,,
-p741,Post 741,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114463623151906341
-ny17,New York’s 17th Congressional District,,,,,,
-p742,Post 742,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114464206114299371
-whftf,White House FIFA Task Force,,,,,,
-cwc25,2025 Club World Cup,,,,,,
-wc26,2026 World Cup,,,,,,
-p743,Post 743,07_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114466802601303034
+s2fp,foreign policy,,,,,11,
+p741,post741,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114463623151906341
+ny17,New York’s 17th Congressional District,,,,,22,
+p742,post742,06_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114464206114299371
+whftf,White House FIFA Task Force,,,,,14,
+cwc25,2025 Club World Cup,,,,,2,
+wc26,2026 World Cup,,,,,2,
+p743,post743,07_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114466802601303034
 s2lj,Lawrence Jones,,,2,3,,
-p744,Post 744,07_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114466820318104255
+p744,post744,07_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114466820318104255
 emmy,Emmys,,,,,,
-p745,Post 745,07_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114468174830884590
-vdww2,Victory Day for World War II,,,,,,
+p745,post745,07_05_25,may25,,,19,https://truthsocial.com/@realDonaldTrump/posts/114468174830884590
+vdww2,Victory Day for World War II,,,,,17,
 p746,Post 746,07_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114468257803426979
 s2dp,David Perdue,,,2,2,,
-amb,Ambassador to China,,,,,,
-p747,Post 747,07_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114468502752133916
+amb,Ambassador to China,,,,,11,
+p747,post747,07_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114468502752133916
 s2cm,Dr. Casey Means,,,1,3,,
-sg,Surgeon General of the United States,,,,,,
+sg,Surgeon General of the United States,,,,,7,
 dohhs,Department of Health and Human Services,,,,,2,
 s2jn,Dr. Janette Nesheiwat,,,1,3,,
 p748,Post 748,07_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114468755257430424
 p749,Post 749,07_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114469488580251681
-td,trade deal,,,,,,
+td,trade deal,,,,,11,
 p750,Post 750,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114471661029075259
 p751,Post751,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114471687266303772
 p752,Post 752,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114471750357100883
 p753,Post 753,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114471776222344399
 p754,Post 754,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114472802068018414
-ranch,ranchers,,,,,,
+ranch,ranchers,,,,,15,
 p755,Post 755,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114473380014194441
 crfp,Cardinal Robert Francis Prevost,,,2,3,,
 s2pl,Pope Leo XIV,,,2,3,,
@@ -1474,8 +1472,8 @@ p757,Post 757,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/1
 p758,Post 758,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114474417554010988
 p759,Post 759,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114474464809294039
 s2mb,Mike Bost,,,2,2,,
-va,veterans affairs,,,,,,
-s2sb,secure border,,,,,,
+va,veterans affairs,,,,,7,
+s2sb,secure border,,,,,12,
 p760,Post 760,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114474465286880800
 zn,Zach Nunn,,,2,2,,
 pts,peace through strength,,,,,,
@@ -1484,7 +1482,7 @@ s2jk,Jen Kiggans,,,2,1,,
 p762,Post 762,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114474467319531911
 s2nb,Nick Begich,,,2,1,,
 gw,government waste,,,,,,
-s2id,illegal drugs,,,,,,
+s2id,illegal drugs,,,,,8,
 p763,Post 763,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114474468098464790
 robr,Rob Bresnahan,,,2,2,,
 p764,Post 764,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114474468725706522
@@ -1508,10 +1506,10 @@ nocarrep,North Carolina Republican Party,,,,,,
 p771,Post 771,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114474584669905764
 jeanine,Jeanine Pirro,,,1,2,,
 five,The Five,,,,,,
-dv,domestic violence,,,,,,
+dv,domestic violence,,,,,8,
 p772,Post 772,08_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114474760680232575
 wdg,Weaponization Working Group,,,,,,
-asdep,Associate Deputy Attorney General,,,,,,
+asdep,Associate Deputy Attorney General,,,,,4,
 pardatto,Pardon Attorney,,,2,2,,
 p773,Post 773,09_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114477610338144415
 p774,Post 774,09_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114477628854583525
@@ -1530,8 +1528,8 @@ apl,Anna Paulina Luna,,,1,2,,
 p782,Post 782,09_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114480045872688080
 p783,Post 783,09_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114480047403137321
 s2tw,Tim Walberg,,,2,1,,
-s2edu,Education Policy,,,,,,
-s2pr,Parental Rights,,,,,,
+s2edu,Education Policy,,,,,5,
+s2pr,Parental Rights,,,,,4,
 p784,Post 784,09_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114480048117794658
 vf,Virginia Foxx,,,1,2,,
 p785,Post 785,09_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114480048504802354
@@ -1540,10 +1538,10 @@ p786,Post 786,09_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/1
 carol,Carol Miller,,,1,2,,
 reg,Regulations,,,,,,
 p787,Post 787,09_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114480839195032975
-il,illegal,,,,,,
+il,illegal,,,,,8,
 p788,Post 788,10_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114483405683675564
 ceafir,Ceasefire,,,,,,
-s2ir,International Relations,,,,,,
+s2ir,International Relations,,,,,11,
 p789,Post 789,10_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114484265663388527
 p790,post790,10_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114486066663976973
 p791,post791,10_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114487190752990599
@@ -1552,13 +1550,13 @@ p793,post793,11_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/11
 techbros,Tech Bros,,,,,,
 creators,Creators,,,,,,
 p794,post794,11_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114490093180275292
-eulea,European Leaders,,,,,,
+eulea,European Leaders,,,,,11,
 p795,post795,11_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114490277514269016
-illali,Illegal Aliens,,,,,,
-cousys,Court System / Supreme Court,,,,,,
-lawyers,Lawyers,,,,,,
+illali,Illegal Aliens,,,,,8,
+cousys,Court System / Supreme Court,,,,,4,
+lawyers,Lawyers,,,,,4,
 p796,post796,11_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114490604608562822
-tarpol,Tariff Policy,,,,,,
+tarpol,Tariff Policy,,,,,11,
 p797,post797,11_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114491534347862682
 drucomp,Drug Companies,,,,,,
 p798,post798,11_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114491594957458207
@@ -1567,7 +1565,7 @@ p799,post799,11_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/11
 marrad,Martha Raditz,,,1,3,,
 boig,Bob Iger,,,2,1,,
 p800,post800,11_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114492082555622686
-defdep,Defense Department,,,,,,
+defdep,Defense Department,,,,,22,
 af1,Air Force One / 747 Aircraft,,,,,,
 p801,post801,12_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114494359849751984
 p802,post802,12_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114494372667836601
@@ -1591,10 +1589,10 @@ p815,post815,13_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/11
 fed,FED,,,,,,
 p816,post816,13_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114501781259201749
 p817,post817,13_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114503203859060399
-s2usaf,United States Air Force,,,,,,
+s2usaf,United States Air Force,,,,,7,
 p818,post818,14_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114507421112399589
 riy,Riyadh,,,,,,
-abu,Abu Dhabi,,,,,,
+abu,Abu Dhabi,,,,,21,
 neo,Neocons,,,,,,
 libnp,Liberal Nonprofits,,,,,,
 regp,People of the Region,,,,,,
@@ -1602,10 +1600,10 @@ p819,post819,15_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/11
 cartel,Drug Cartels,,,,,,
 s2pc,Political Correctness,,,,,,
 cw,Civil War,,,,,,
-cong,Congress,,,,,,
+cong,Congress,,,,,4,
 bos,Babies of Slaves,,,,,,
 p820,post820,15_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114511762010659631
-cip,Current Immigration Policy,,,,,,
+cip,Current Immigration Policy,,,,,12,
 p821,post821,16_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114515613065520300
 people,The People,,,,,,
 p822,post822,16_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114516603030095775
@@ -1620,10 +1618,10 @@ s2gs,Grandstanders,,,,,,
 p827,post827,16_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114518115625400272
 smc,Shelley Moore Capito,,,1,1,,
 wv,West Virginia,,,,,,
-senenv,Senate Environment & Public Works Committee,,,,,,
+senenv,Senate Environment & Public Works Committee,,,,,21,
 p828,post828,16_05_25,may25,,,,
-ok,Oklahoma,,,,,,
-farranch,Farmers / Ranchers,,,,,,
+ok,Oklahoma,,,,,21,
+farranch,Farmers / Ranchers,,,,,15,
 tribal,Tribal Communities,,,,,,
 warren,Elizabeth Warren,,,1,1,,
 p829,post829,16_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114519753109701350
@@ -1634,7 +1632,7 @@ s2mi,Mentally Insane,,,,,,
 p830,post830,16_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114519933006186542
 p831,post831,16_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114519952063614449
 p832,post832,16_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114519965289784767
-afo,Air Force One,,,,,,
+afo,Air Force One,,,,,7,
 pres,President,,,,,,
 p833,post833,17_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114523195208653918
 autopen,Autopen,,,,,,
@@ -1642,7 +1640,7 @@ elec2020,2020 Presidential Election,,,,,1,
 unsecomm,Unselect Committee of Political Thugs,,,,,,
 p834,post834,17_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114523638623110397
 p835,post835,17_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114523762104941397
-nato,NATO,,,,,,
+nato,NATO,,,,,11,
 p836,post836,17_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114523811882470999
 jp,Jerome Powell,,,2,2,,
 rates,Rates,,,,,,
@@ -1657,8 +1655,8 @@ p840,post840,19_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/11
 p841,post841,19_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114535693441367601
 uvl,Ursula von der Leyen,,,1,3,,
 merz,Friedrich Merz,,,2,3,,
-fi,Finland,,,,,,
-vatican,Vatican,,,,,,
+fi,Finland,,,,,20,
+vatican,Vatican,,,,,20,
 p842,post842,19_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114536543500030486
 s2ai,AI Image Generation,,,,,,
 tid,Take It Down Act,,,,,,
@@ -1673,39 +1671,39 @@ g5,5G,,,,,,
 g6,6G,,,,,,
 p846,post846,20_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114542709133462503
 s2dn,Darryl Nirenberg,,,1,1,,
-rom,Romania,,,,,,
+rom,Romania,,,,,20,
 seci,Security Interests,,,,,,
 p847,post847,21_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114548257487682819
 s2wp,William Pulte,,,2,2,,
-cash,Cash,,,,,,
+cash,Cash,,,,,3,
 p848,post848,21_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114549529250052858
 dckill,D.C. Killings,,,,,,
-jews,Jews,,,,,,
+jews,Jews,,,,,16,
 families,Families of victims,,,,,,
 p849,post849,22_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114551462787614405
 bp,Border Patrol,,,,,,
 gd,Golden Dome,,,,,,
-tsa,Trump Savings Accounts,,,,,,
+tsa,Trump Savings Accounts,,,,,3,
 p850,post850,22_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114552682280589564
 fedjudg,Federal Judge (Boston),,,,,,
-soutsud,South Sudan,,,,,,
+soutsud,South Sudan,,,,,20,
 djibouti,Djibouti,,,,,,
-supcou,Supreme Court of the United States,,,,,,
+supcou,Supreme Court of the United States,,,,,4,
 iceoff,ICE Officers,,,,,,
 p851,post851,22_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114552899639158114
 p852,post852,22_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114553573338999017
-loudocou,Loudoun County,,,,,,
-crypto,Cryptocurrency,,,,,,
+loudocou,Loudoun County,,,,,21,
+crypto,Cryptocurrency,,,,,3,
 p853,post853,22_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114553874373379109
 berna,Bernie Navarro,,,2,2,,
-peru,Republic of Peru,,,,,,
-miadadcol,Miami Dade College,,,,,,
-unimia,University of Miami,,,,,,
-harva,Harvard University,,,,,,
+peru,Republic of Peru,,,,,20,
+miadadcol,Miami Dade College,,,,,5,
+unimia,University of Miami,,,,,5,
+harva,Harvard University,,,,,5,
 p854,post854,23_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114556494480941887
 prisoswap,Prisoner Swap,,,,,,
 p855,post855,23_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114556558074574515
-windmills,Windmills,,,,,,
+windmills,Windmills,,,,,15,
 norsea,North Sea,,,,,,
 aberdeen,Aberdeen,,,,,,
 oildril,Oil Drilling,,,,,,
@@ -1717,7 +1715,6 @@ amercomp,American Companies,,,,,10,
 p858,post858,23_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114558783827880495
 nipste,Nippon Steel,,,,,,
 p859,post859,23_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114558786117625961
-usarmy,US Army,,,,,,
 parade,Parade,,,,,,
 p862,post862,25_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114570775887793036
 p863,post863,25_05_25,may26,,,,https://truthsocial.com/@realDonaldTrump/posts/114570966776768541
@@ -1733,10 +1730,10 @@ p868,post868,25_05_25,may26,,,,https://truthsocial.com/@realDonaldTrump/posts/11
 p869,post869,25_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114571369956761390
 drones,Missiles/Drones,,,,,,
 p870,post870,26_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114573871728757682
-rapists,Rapists,,,,,,
+rapists,Rapists,,,,,8,
 prisrel,Released Prisoners,,,,,,
 p871,Post 871,26_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114573960971600808
-countries,Countries from all over the World,,,,,,
+countries,Countries from all over the World,,,,,20,
 p872,Post 872,26_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114574087342675789
 s2pf,Plants & Factories,,,,,,
 p873,Post 873,26_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114574126417705588
@@ -1748,10 +1745,10 @@ p876,Post 876,26_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/1
 sj,Scott Jenkins,,,2,2,,
 pj,Patricia Jenkins,,,1,3,,
 robbal,Robert Ballou,,,1,3,,
-courts,Federal/City/State Courts,,,,,,
+courts,Federal/City/State Courts,,,,,4,
 p877,Post 877,27_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114579949187402607
-s2fa,Federal Authorities,,,,,,
-s2la,Local Authorities,,,,,,
+s2fa,Federal Authorities,,,,,4,
+s2la,Local Authorities,,,,,4,
 ath,Transitioned Male Athlete,,may25,,,,
 sports,Sports,,,,,,
 p878,Post 878,27_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114580018376822663
@@ -1760,60 +1757,60 @@ p880,Post 880,27_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/1
 p881,Post 881,27_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114581970051938528
 p882,Post 882,27_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114582050209637823
 fish,Fishing Industry,,,,,,
-s2env,Environmentalists,,,,,,
+s2env,Environmentalists,,,,,15,
 lumber,Lumberjacks / voters,,,,,,
 p883,Post 883,27_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114582051233743955
-alaska,Alaska,,,,,,
+alaska,Alaska,,,,,21,
 pollead,Political Leaders,,,,,,
 p884,Post 884,27_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114582052493616430
 p885,Post 885,27_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114582141732207441
-usgov,U.S. Government,,,,,,
+usgov,U.S. Government,,,,,22,
 p886,Post 886,28_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114586960080176462
 barrack,Tom Barrack,,,2,2,,
-tur,Turkey,,,,,,
-radicalism,Radicalism,,,,,,
+tur,Turkey,,,,,20,
+radicalism,Radicalism,,,,,8,
 p887,Post 887,28_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114587010981213926
 bove,Emil Bove,,,2,3,,
-georgetown,Georgetown Law,,,,,,
-sdny,Southern District of NY,,,,,,
+georgetown,Georgetown Law,,,,4,4,
+sdny,Southern District of NY,,,,,21,
 tinu,Terrorism & Intl Narcotics Unit,,,,,,
 p888,Post 888,28_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114587447106051612
 kd,Kyle Dudek,,,2,2,,
 p889,Post 889,28_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114587447392412802
 moe,Anne-Leigh Gaylord Moe,,,1,3,,
-fl2court,FL 2nd District Court of Appeals,,,,,,
-fl13court,FL 13th Judicial Circuit Court,,,,,,
+fl2court,FL 2nd District Court of Appeals,,,,4,,
+fl13court,FL 13th Judicial Circuit Court,,,,4,,
 p890,Post 890,28_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114587448932259485
 guard,John Guard,,,2,1,,
-fsu,Florida State University,,,,,,
-tulane,Tulane University School of Law,,,,,,
+fsu,Florida State University,,,,,5,
+tulane,Tulane University School of Law,,,,,5,
 cdag,State Chief Deputy Attorney Gen,,,,,,
-asstusa,Assistant US Attorney Middle FL,,,,,,
+asstusa,Assistant US Attorney Middle FL,,,,,4,
 p891,Post 891,28_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114587449190015002
 pratt,Jordan E. Pratt,,,2,1,,
-fl5court,FL 5th District Court of Appeal,,,,,,
+fl5court,FL 5th District Court of Appeal,,,,,4,
 ussba,US Small Business Administration,,,,,,
-olp,Office of Legal US DOJ Policy,,,,,,
-dsgfl,Deputy Solicitor General,,,,,,
+olp,Office of Legal US DOJ Policy,,,,,22,
+dsgfl,Deputy Solicitor General,,,,,7,
 p892,Post 892,28_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114587450000198620
 artau,Ed Artau,,,2,2,,
-usdctsfl,US District Court Southern FL,,,,,,
-fl4court,FL 4th District Court of Appeal,,,,,,
-fl15court,FL 15th Judicial Circuit Court,28_05_25,,,,,
+usdctsfl,US District Court Southern FL,,,,,4,
+fl4court,FL 4th District Court of Appeal,,,,,4,
+fl15court,FL 15th Judicial Circuit Court,28_05_25,,,,4,
 sfwmd,South FL Water Management Dist,,,,,,
 cmns,Common Sense,,,,,,
 p893,Post 893,28_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114588267526398401
-pulitzer,Pulitzer Prize Board,,,,,,
+pulitzer,Pulitzer Prize Board,,,,,19,
 washcomp,Washington Compost,,,,,,
-flappcourt,Florida Appellate Court,,,,,,
-p894,Post 894,29_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114593467159196179
-osc,US Office of Special Counsel,,may25,,,,
+flappcourt,Florida Appellate Court,,,,,4,
+p894,Post 894,29_05_25,may25,,,4,https://truthsocial.com/@realDonaldTrump/posts/114593467159196179
+osc,US Office of Special Counsel,,may25,,,22,
 whlshs,White House Liaison Homeland,,,,,,
-cornell,Cornell Law School,,,,,,
-fordham,Fordham University,,,,,,
+cornell,Cornell Law School,,,,,5,
+fordham,Fordham University,,,,,5,
 p895,Post 895,29_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114593880455063168
-uscit,US Court of International Trade,,,,,,
-federalcircuit,US Court of Appeals Federal Circuit,,,,,,
+uscit,US Court of International Trade,,,,,22,
+federalcircuit,US Court of Appeals Federal Circuit,,,,,22,
 fedsoc,The Federalist Society,,,,,,
 p896,Post 896,29_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114593895018014960
 p897,Post 897,30_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114596705340367716
@@ -1832,11 +1829,11 @@ p902,Post 902,30_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/1
 steel,Steel Industry,,,,,,
 alu,Aluminum Industry,,,,,,
 p903,Post 903,30_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114599417835206103
-txsen,Texas Senate,,,,,,
-txle,Texas Law Enforcement,,,,,,
+txsen,Texas Senate,,,,,4,
+txle,Texas Law Enforcement,,,,,4,
 p904,Post 904,30_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114599557006933759
-pitt,Pittsburgh,,,,,,
-shang,Shanghai,,,,,,
+pitt,Pittsburgh,,,,,21,
+shang,Shanghai,,,,,21,
 p905,Post 905,31_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114602629020606637
 workers,Workers / Labor,,,,,,
 p906,Post 906,31_05_25,may25,,,,https://truthsocial.com/@realDonaldTrump/posts/114602636801002520
@@ -1856,10 +1853,10 @@ p911,Post 911,01_06_25,jun25,,,,
 butler,BUTLER: The Untold Story of the Near Assassination of Donald Trump,,,,,,
 p912,Post 912,01_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114608902357322907
 be,Bill Essayli,,,2,2,,
-usaatt,United States Attorney,,,,,,
-ctf,Criminal Task Force,,,,,,
+usaatt,United States Attorney,,,,,4,
+ctf,Criminal Task Force,,,,,4,
 s2hf,Homelessness Funds,,,,,,
-fraud,Fraud and Corruption,,,,,,
+fraud,Fraud and Corruption,,,,,1,
 p913,Post 913,01_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114609088288599288
 stepa,Pennsylvania Steel,,,,,,
 metal,Metal Industry,,,,,,
@@ -1875,15 +1872,15 @@ s2aut,AUTOPEN,,,,,,
 agr,Potential Agreement,,,,,,
 p917,Post 917,02_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114616063852488330
 millea,Military Leaders,,,,,,
-umf,US Military Forces,,,,,,
+umf,US Military Forces,,,,,7,
 wep,Weapons,,,,,,
 p918,Post 918,02_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114616192602509494
 spr,Strategic Petroleum Reserve,,,,,,
 p919,Post 919,02_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114616207227510153
 wfa,Waste Fraud Abuse,,,,,,
 p920,Post 920,02_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114616348045430286
-wharton,Wharton School of Finance,,,,,,
-upa,University of Pennsylvania,,,,,,
+wharton,Wharton School of Finance,,,,,5,
+upa,University of Pennsylvania,,,,,5,
 p921,Post 921,02_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114616351910119498
 p922,Post 922,04_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114627858736860268
 p923,Post 923,05_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114631295762726849
@@ -1896,7 +1893,7 @@ p928,Post 928,06_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/1
 compa,companies,,,,,,
 p929,Post 929,06_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114636734825372318
 rate,Rate,,,,,,
-inf,Inflation,,,,,,
+inf,Inflation,,,,,3,
 debt,Debt,,,,,,
 short,Short-term borrowing,,,,,,
 long,Long-term borrowing,,,,,,
@@ -1909,11 +1906,11 @@ p932,Post 932,07_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/1
 p933,Post 933,08_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114646378582957392
 p934,Post 934,08_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114649780431129598
 s2db,Deportation,,,,,,
-dod,Department of Defense,,,,,,
-attorney,Attorney General,,,,,,
+dod,Department of Defense,,,,,22,
+attorney,Attorney General,,,,,7,
 p935,Post 935,09_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114651462358753429
 jmd,Jim McDonnell,,,2,1,,
-lapd,LAPD,,,,,,
+lapd,LAPD,,,,,4,
 p936,Post 936,09_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114654277401980803
 p937,Post 937,10_06_25,jun25,,,,
 federal,Federal Permitting,,,,,,
@@ -1922,34 +1919,34 @@ childa,Child Trump Accounts,,,,,,
 p939,Post 939,10_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114661266771433205
 bral,Brad Little,,,,,,
 p940,Post 940,10_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114661594047511147
-army,U.S. Army,,,,,,
-blackh,Blackhawks,,,,,,
-artillery,Artillery Units,,,,,,
-infantry,Infantry Brigade,,,,,,
+army,U.S. Army,,,,,7,
+blackh,Blackhawks,,,,,7,
+artillery,Artillery Units,,,,,7,
+infantry,Infantry Brigade,,,,,7,
 p941,Post 941,10_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114661611675544476
 flag,American Flag,,,,,,
 p942,Post 942,10_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114661616289278861
 p943,Post 943,10_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114661875773869479
 p944,Post 944,11_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114664317659540633
 prot,protectionism,,,,,,
-fac,federal appeals court,,,,,,
-p945,Post 945,11_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114664350602686558
+fac,federal appeals court,,,,,4,
+p945,post945,11_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114664350602686558
 govca,Governor of California,,,,,,
 agitators,Agitators,,,,,,
-p946,Post946,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114670085083632579
+p946,post946,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114670085083632579
 lapol,L.A. Police,,,,,,
-p947,Post947,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114670309710000195
+p947,post947,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114670309710000195
 americans,Americans,,,,,,
-p948,Post948,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114670486632619754
-p949,Post949,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114670526015735789
-p950,Post950,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114670684664650262
+p948,post948,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114670486632619754
+p949,post949,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114670526015735789
+p950,post950,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114670684664650262
 hlb,Hotel and Leisure Business,,,,,,
 p951,Post951,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114671658277148795
 trumpcar,Trump Card,,,,,,
-budget,Federal Budget,,,,,,
+budget,Federal Budget,,,,,3,
 p952,Post952,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114671706526373660
-cbp,CBP,,,,,,
-spohi,Springfield Ohio,,,,,,
+cbp,US Customs and Border Protection (CBP),,,,,,
+spohi,Springfield Ohio,,,,,21,
 parks,Community Parks,,,,,,
 resources,Community Resources,,,,,,
 jobs,Jobs,,,,,,
@@ -1957,57 +1954,57 @@ welfare,Welfare Funds,,,,,,
 p953,Post953,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114671982391481893
 aid,Foreign Aid,,,,,,
 bill,Rescissions Bill,,,,,,
-p954,Post954,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114672438335170335
+p954,post954,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114672438335170335
 nuke,Nuclear Issue,,,,,,
-dipl,Diplomatic Negotiations,,,,,,
-p955,Post955,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114672816056718064
+dipl,Diplomatic Negotiations,,,,,11,
+p955,post955,12_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114672816056718064
 communities,Communities,,,,,,
-p956,Post956,13_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114675456780398208
-p957,Post957,13_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114675518227311570
-p958,Post958,13_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114675841423085927
+p956,post956,13_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114675456780398208
+p957,post957,13_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114675518227311570
+p958,post958,13_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114675841423085927
 ult,60‑Day Ultimatum,,,,,,
 deal,Nuclear Deal,,,,,,
 secocha,Second Chance,,,,,,
-p959,Post959,14_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114682713948931541
+p959,post959,14_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114682713948931541
 mnlaw1,Melissa Hortman,,,1,1,,
 mnlaw2,John Hoffman,,,2,1,,
 violence,Targeted Shooting / Political Violence,,,,,,
-p960,Post258.960,14_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114683261634430212
+p960,post960,14_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114683261634430212
 prisoners,Prisoner Exchange,,,,,,
-p961,Post259.961,15_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114685507052179501
-irnsdeal,Iran‑Israel Deal,,,,,,
-p962,Post260.962,15_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114687664442020232
-serbia,Serbia,,,,,,
-kosovo,Kosovo,,,,,,
-ethiopia,Ethiopia,,,,,,
+p961,Post961,15_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114685507052179501
+irnsdeal,Iran‑Israel Deal,,,,,11,
+p962,post962,15_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114687664442020232
+serbia,Serbia,,,,,20,
+kosovo,Kosovo,,,,,20,
+ethiopia,Ethiopia,,,,,20,
 nildam,Nile Dam Dispute,,,,,,
 traus,Trade with U.S.,,,,,,
-p963,Post261.963,15_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114690267066155731
-s2dea,DEA,,,,,,
-atf,ATF,,,,,,
+p963,post963,15_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114690267066155731
+s2dea,Drug Inforcement Administration (DEA),,,,,,
+atf,"Bureau of Alcohol, Tabacco, Firearms and Explosives (ATF)",,,,,22,
 statdep,U.S. State Department,,,,,,
-chi,Chicago,,,,,,
+chi,Chicago,,,,,21,
 sanctuary,Sanctuary Cities,,,,,,
-p964,Post262.964,16_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114691752952220639
+p964,post964,16_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114691752952220639
 hamadeh,Abe Hamadeh,,jun25,2,2,,
-az8,Arizona 8th Congressional District,,,,,,
+az8,Arizona 8th Congressional District,,,,,21,
 taxcuts,Tax Cuts,,,,,,
-p965,Post263.965,16_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114695407357588413
+p965,post965,16_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114695407357588413
 nuw,Nuclear Weapon,,jun25,,,,
 evac,Evacuation of Tehran,,jun25,,,,
-p966,Post264.966,16_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114695595047194931
-p967,Post265.967,16_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114695621681197460
-p968,Post266.968,16_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114696663907260212
+p966,Post966,16_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114695595047194931
+p967,Post967,16_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114695621681197460
+p968,Post968,16_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114696663907260212
 natguard,National Guard,,,,,,
-g7summit,G7 Summit (Canada),,,,,,
+g7summit,G7 Summit (Canada),,,,,11,
 p969,Post969,17_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114697964891587065
-peatal,Peace Talks with Iran,,,,,,
+peatal,Peace Talks with Iran,,,,,11,
 p970,Post970,17_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114699514822488706
-airspace,Control of Iranian Skies,,,,,,
+airspace,Control of Iranian Skies,,,,,7,
 p971,Post971,17_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114699610769479275
 supreme,Supreme Leader of Iran,,,,,,
 civ,Civilians,,,,,,
-missiles,Missile Attacks,,,,,,
+missiles,Missile Attacks,,,,,8,
 p972,Post972,17_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114701503810958743
 flags,Flags / Flag Poles,,,,,,
 p973,Post973,18_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114707090627277644
@@ -2028,8 +2025,8 @@ p982,Post982,20_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/11
 p983,Post983,20_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114717387393069944
 p984,Post984,20_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114717929371967424
 p985,Post985,20_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114717932061341718
-drc,Democratic Republic of the Congo,,,,,,
-rwa,Republic of Rwanda,,,,,,
+drc,Democratic Republic of the Congo,,,,,20,
+rwa,Republic of Rwanda,,,,,20,
 p986,post986,20_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114718072561660622
 jt,Jessica Tarlov,,,1,1,,
 rasmussen,Rasmussen Poll,,,,,,
@@ -2048,8 +2045,8 @@ p992,Post 992,22_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/1
 irreg,Current Iranian Regime,,,,,,
 p993,Post 993,22_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114730186433008075
 p994,Post 994,23_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114733380709403439
-ns,Nuclear Submarines,,,,,,
-fpilots,Fighter Pilots,,,,,,
+ns,Nuclear Submarines,,,,,7,
+fpilots,Fighter Pilots,,,,,7,
 p995,Post 995,23_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114734021412822365
 ac,Allison Cooper,,,1,2,,
 blr,Brian L. Roberts,,,2,2,,
@@ -2060,7 +2057,7 @@ p997,Post 997,23_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/1
 p998,Post 998,23_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114735940283355339
 p999,Post 999,24_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114736702510423652
 p1000,Post 1000,24_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114738104789842114
-eur,European Allies,,,,,,
+eur,European Allies,,,,,11,
 p1001,Post 1001,24_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114738521695017472
 p1002,Post 1002,24_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114738530800440064
 p1003,Post 1003,24_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114738685142153877
@@ -2072,33 +2069,33 @@ king,King of Netherlands,,,,,,
 queen,Queen of Netherlands,,,,,,
 p1007,Post 1007,25_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114744772916804667
 p1008,Post 1008,25_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114744949125614209
-b2,B-2 Pilots,,,,,,
+b2,B-2 Pilots,,,,,7,
 p1009,Post 1009,25_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114745403809459125
 nber,Natasha Bertrand,,,1,3,,
 p1010,Post 1010,25_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114746355912265245
 court,Israeli Court,,,,,,
 ins,Iran Nuclear Sites,,,,,,
 p1011,Post 1011,25_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114747234182168375
-anchors,Anchors of CNN,,,,,,
+anchors,Anchors of CNN,,,,,10,
 p1012,Post 1012,26_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114749580476669594
-reporters,CNN/NYT Reporters,,,,,,
+reporters,CNN/NYT Reporters,,,,,10,
 p1013,Post 1013,26_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114749815668266552
-pressconf,Press Conference,,,,,,
+pressconf,Press Conference,,,,,10,
 witch,Witch Hunt,,,,,,
 p1014,Post 1014,26_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114749839848044904
 rumor,rumor,,,,,,
 p1015,Post 1015,26_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114749872416313793
-summit,NATO Summit,,,,,,
-leaders,NATO Leaders,,,,,,
+summit,NATO Summit,,,,,11,
+leaders,NATO Leaders,,,,,11,
 p1016,Post 1016,26_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114750055630968441
 p1017,Post 1017,27_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114755893176827573
 brc,Birthright Citizenship,,,,,,
 sauer,John Sauer,,,2,1,,
-imm,U.S. Immigration System,,,,,,
+imm,U.S. Immigration System,,,,,11,
 p1018,Post 1018,27_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114756430889057942
 kham,Ayatollah Ali Khamenei,,,2,3,,
-usarmedforces,U.S. Armed Forces,,,,,,
-sanc,Sanctions on Iran,,,,,,
+usarmedforces,U.S. Armed Forces,,,,,7,
+sanc,Sanctions on Iran,,,,,11,
 p1019,post1019,27_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114756567645919781
 atc,American Technology Companies,,,,,,
 p1020,post1020,27_06_25,jun25,,,,https://truthsocial.com/@realDonaldTrump/posts/114756635237936002
@@ -2495,7 +2492,6 @@ p1228,post1228,19_08_25,aug25,,,,https://truthsocial.com/@realDonaldTrump/posts/
 irnnuc,Iran Nuclear Facilities,,,,,,
 p1223,post1223,18_08_25,aug25,,,,https://truthsocial.com/@realDonaldTrump/posts/115049974697549520
 dcsaf,D.C. Safety Praise,,,,,,
-fakcrime,Fake Crime Numbers,,,,,,
 p1224,post1224,18_08_25,aug25,,,,https://truthsocial.com/@realDonaldTrump/posts/115050064654728051
 p1225,post1225,18_08_25,aug25,,,,https://truthsocial.com/@realDonaldTrump/posts/115051906127274792
 caa,New Congressional Map Bill,,,,,,
@@ -2551,9 +2547,6 @@ wm,Wes Moore,,,2,1,,
 s2lapd,Law Enforcement Officer,,,,,,
 pdc,people of D.C.,,,,,,
 s2cw,City of Washington D.C.,,,,,,
-cich,City of Chicago,,,,,,
-cla,City of Los Angeles,,,,,,
-cny,City of New York,,,,,,
 s2cb,City of Baltimore,,,,,,
 nguar,National Guards,,,,,,
 p1244,post1244,01_09_25,sep25,,,,https://truthsocial.com/@realDonaldTrump/posts/115128985245605660
@@ -3614,9 +3607,9 @@ p1737,post1737,06_11_25,nov25,,,,https://truthsocial.com/@realDonaldTrump/posts/
 walm,Walmart,,,,,,
 p1738,post1738,06_11_25,nov25,,,,https://truthsocial.com/@realDonaldTrump/posts/115503780433465879
 p1739,post1739,06_11_25,nov25,,,,https://truthsocial.com/@realDonaldTrump/posts/115504973020459337
-p1740,Post 1740,06_11_25,nov25,,,,https://truthsocial.com/@realDonaldTrump/posts/115505478418176575
+p1740,post1740,06_11_25,nov25,,,,https://truthsocial.com/@realDonaldTrump/posts/115505478418176575
 abac,Abraham Accords,,,,,,
-p1741,Post 1741,06_11_25,nov25,,,,https://truthsocial.com/@realDonaldTrump/posts/115506045885898474
+p1741,post1741,06_11_25,nov25,,,,https://truthsocial.com/@realDonaldTrump/posts/115506045885898474
 amse,American Sectors,,,,,,
 p1742,post1742,07_11_25,nov25,,,,https://truthsocial.com/@realDonaldTrump/posts/115508680705242553
 p1743,post1743,07_11_25,nov25,,,,https://truthsocial.com/@realDonaldTrump/posts/115508699750416036
@@ -4433,14 +4426,14 @@ s2nbc,NBC News,,,,,,
 p2113,post2113,22_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115939889414201547
 p2112,post2112,22_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115940231479630134
 p2111,post2111,22_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115940444095244586
-s2fifa,FIFA World Cup 2026,,,,,,
+s2fifa,FIFA World Cup 2026,,,,,14,
 laoly,Los Angeles Summer Olympics 2028,,,,,,
 woex,World Expo 2035,,,,,,
 p2110,post2110,22_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115940718914667214
 p2109,post2109,22_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115941096615143011
 p2108,post2108,22_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115941130299210878
 p2107,post2107,22_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115941252213747451
-p2106,post 2106,23_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115941568330748012
+p2106,post2106,23_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115941568330748012
 blfi,Blake Fiechter,,,2,2,,
 trho,Travis Holdman,,,2,2,,
 bluf,Bluffton,,,,,,
@@ -4556,19 +4549,19 @@ p2041,post2041,25_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/
 geo,Georgia,,,,,20,
 p2040,post2040,26_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115961944680232406
 p2039,post2039,26_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115961945286485523
-p2038,post 2038,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115962378381121858
-p2037,post 2037,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115962472454059914
-p2036,post 2036,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115962860545833203
+p2038,post2038,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115962378381121858
+p2037,post2037,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115962472454059914
+p2036,post2036,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115962860545833203
 tkc,Trump Kennedy Center,,,,,,
-p2035,post 2035,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115963236796090298
-p2034,post 2034,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115963259137242895
+p2035,post2035,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115963236796090298
+p2034,post2034,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115963259137242895
 mida,Michelle Davis,,,1,2,,
 grwa,Greg Walker,,,2,2,,
-p2033,post 2033,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115963633972056786
+p2033,post2033,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115963633972056786
 kole,Korean Legislature,,,,,,
 s2lee,Lee Jae Myung,,,2,3,,
-p2032,post 2032,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115963679718287297
-p2031,post 2031,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115963713974102712
+p2032,post2032,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115963679718287297
+p2031,post2031,26_01_26,,,,,https://truthsocial.com/@realDonaldTrump/posts/115963713974102712
 p2030,post2030,26_01_26,jan26,,,,https://truthsocial.com/@realDonaldTrump/posts/115964309300790101
 trpo,Tracy Powell,,,1,2,,
 jibu,Jim Buck,,,2,2,,
