@@ -330,6 +330,8 @@ p42,endor,09_01_25,3
 endor,jn,09_01_25,1
 jn,camp,09_01_25,1
 p43,iwr,09_01_25,3
+p43,kh,09_01_25,2
+iwr,kh,09_01_25,2
 p44,gn,09_01_25,2
 p44,usa,09_01_25,3
 gn,wf,09_01_25,2
@@ -7408,10 +7410,12 @@ s2pl,vatican,19_05_25,1
 rus,trade,19_05_25,1
 ukr,trade,19_05_25,1
 p842,s2ai,19_05_25,1
+p842,media,19_05_25,3
 p842,tid,19_05_25,1
 p842,wmn,19_05_25,1
 tid,wmn,19_05_25,1
 s2ai,wmn,19_05_25,1
+s2ai,media,19_05_25,2
 p843,roma,20_05_25,1
 p843,mabar,20_05_25,1
 p843,fobu,20_05_25,1
@@ -10402,9 +10406,12 @@ cbpoff,mig,20_07_25,2
 cbpoff,cr,20_07_25,2
 jb,pa,20_07_25,2
 p1131,redskins,20_07_25,1
+p1131,fball,20_07_25,3
 p1131,commanders,20_07_25,2
 p1131,indians,20_07_25,1
 p1131,mattdol,20_07_25,2
+fball,redskins,20_07_25,1
+fball,commanders,20_07_25,2
 redskins,commanders,20_07_25,2
 indians,mattdol,20_07_25,3
 p1132,wsj,20_07_25,2
