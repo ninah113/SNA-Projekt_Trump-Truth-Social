@@ -1,1 +1,0 @@
-# SNA-Projekt_Trump-Truth-Social
