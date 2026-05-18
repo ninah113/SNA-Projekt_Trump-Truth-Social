@@ -1,0 +1,24 @@
+CODEBUCH,,Beispiel/ nähere Erklärung
+language,english (date = german),
+Wert,Kommentar,
+edgelist,Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).,
+nodelist,Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.,
+NA,"definiert fehlende Werte, bei der Datenerhebung das Feld einfach leer lassen, R rechnet NAs (missing values) automatisch raus..",
+,,
+,,
+edgelist,,
+from,definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen.,
+to,"definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc. ",
+date,Veröffentlichkeitsdatum des Posts,"Tag_Monat_Jahr, z.B. 01_09_25"
+rating,"das Thema ist positiv, negativ oder neutral konnotiert","1 = positiv, 2 = negativ, 3 = neutral"
+,,
+,,
+nodelist,,
+id,"eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird: ","Personen: Initialen in Kleinbuchstaben, Institutionen ebenfalls mit offizieller Abkürzung, z.B. ice = ICE (United States Immigration and Customs Enforcement), Posts werden als p1, p2, p3 usw. benannt"
+name,ausgeschriebener Name der Person/Unter-Kategorie/Institution,
+date,Datum der Veröffentlichung des Posts ,Form: Tag_Monat_Jahr z.B. 01_09_25
+month,"nur der Monat, in dem der Post veröffentlicht wurde "," jan25, feb25, mar25, apr25, jun25, jul25, aug25, sep25, oct25, nov25, dec25, jan26 (englische Monatsnamen)"
+sex,"dichotome Ausprägung: Wenn der Knoten ein Mensch ist, dann steht 1 = female,  2 = male, 3 = divers ",
+party,"Parteizugehörigkeit, sofern der Knoten ein Mensch ist","1 = democrats, 2 = rebublicans, 3 = other parties"
+topcategory,"Überkategorie, unter der die Unterkategorien eingeordnet werden; dementsprechend definieren sie sich auch nach Zuordnung","1 = election campaign, 2 = health, 3 = finance, 4 = justice system, 5 = education, 6 = economy, 7 = military, 8 = crime, 9 = personal asaults, 10 = media, 11 = foreign policy, 12 = domestic policy, 13 = conflicts, 14 = sports, 15 = environment, 16 = religion, 17 = history, 18 = family, 19 = awards/honors, 20 = countries, 21 = cities/states, 22 = authortiy/office, 23 = continents"
+link,"Link zum Post, dient der Transparenz (Zuordnung und Nachverfolgung der Ergbenisse im Nachhinein)",
